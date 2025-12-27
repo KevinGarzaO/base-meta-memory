@@ -66,7 +66,6 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
             'te comparto los siguientes links de interes sobre el proyecto',
             '👉 *doc* para ver la documentación',
             '👉 *gracias*  para ver la lista de videos',
-            '👉 *discord* unirte al discord',
         ],
         null,
         null,
